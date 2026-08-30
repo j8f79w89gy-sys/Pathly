@@ -1,0 +1,32 @@
+[
+  {
+    "id": "path-focus",
+    "label": "Full focus on the passion path",
+    "milestones": [
+      { "period": "Now", "note": "Structured, serious training or practice begins" },
+      { "period": "+6 months", "note": "First real external evaluation (trial, competition, portfolio review)" },
+      { "period": "+1 year", "note": "Honest checkpoint: are you progressing at a competitive rate?" },
+      { "period": "+2 years", "note": "Either a genuine breakthrough opportunity, or a clear signal to pivot with experience gained" }
+    ]
+  },
+  {
+    "id": "path-combine",
+    "label": "Combine passion with a stable track",
+    "milestones": [
+      { "period": "Now", "note": "Begin both in parallel, deliberately time-boxed" },
+      { "period": "+6 months", "note": "First tradeoffs appear — where is time actually going?" },
+      { "period": "+1 year", "note": "One path likely pulls ahead in genuine engagement and results" },
+      { "period": "+2 years", "note": "A clearer-eyed choice, made with real evidence instead of guesswork" }
+    ]
+  },
+  {
+    "id": "path-stable",
+    "label": "Prioritize the stable/expected path",
+    "milestones": [
+      { "period": "Now", "note": "Commit primary time to the stable path (study, job, training)" },
+      { "period": "+6 months", "note": "Passion pursued as a side practice, not abandoned entirely" },
+      { "period": "+1 year", "note": "Stability established; reassess whether the passion still pulls at you" },
+      { "period": "+2 years", "note": "Either the passion resurfaces with more resources behind it, or it settles into a hobby" }
+    ]
+  }
+]
